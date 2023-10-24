@@ -4,6 +4,8 @@
       "id": 1,
       "name": "Arashiyama Bamboo Grove",
       "url": "https://cdn-images-1.medium.com/max/2000/1*vdJuSUKWl_SA9Lp-32ebnA.jpeg",
+      "user_itinerary_summary": "Day 1: 2PM - 3:30PM",
+      "tour_package_name": "Standard Package",
       "facts": [
         {
           "title": "Summary",
@@ -14,13 +16,13 @@
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
       ],
-      "user_itinerary_summary": "Day 1: 2PM - 3:30PM",
-      "tour_package_name": "Standard Package"
     },
     {
       "id": 2,
       "name": "Mount Fuji",
       "url": "https://img3.goodfon.ru/original/1920x1080/a/a5/fuji-peizazh-iaponiia-gora-tsvety-nebo.jpg",
+      "user_itinerary_summary": "Day 1: 9AM - 1:30PM",
+      "tour_package_name": "Standard Package",
       "facts": [
         {
           "title": "Summary",
@@ -31,13 +33,13 @@
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
       ],
-      "user_itinerary_summary": "Day 1: 9AM - 1:30PM",
-      "tour_package_name": "Standard Package"
     },
     {
       "id": 3,
       "name": "Kiyomizu-dera",
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kiyomizu-dera_in_Kyoto-r.jpg/800px-Kiyomizu-dera_in_Kyoto-r.jpg",
+      "user_itinerary_summary": "Day 1: 4PM - 5:00PM",
+      "tour_package_name": "Standard Package",
       "facts": [
         {
           "title": "Summary",
@@ -48,13 +50,13 @@
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
       ],
-      "user_itinerary_summary": "Day 1: 4PM - 5:00PM",
-      "tour_package_name": "Standard Package"
     },
     {
       "id": 4,
       "name": "Kinkaku-ji",
       "url": "https://www.asisbiz.com/Japan/Kinkaku-ji/images/0-Postcards-Kinkaku-ji-Winter.jpg",
+      "user_itinerary_summary": "Day 2: 9AM - 11:30AM",
+      "tour_package_name": "Premium Package",
       "facts": [
         {
           "title": "Summary",
@@ -65,13 +67,13 @@
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
       ],
-      "user_itinerary_summary": "Day 2: 9AM - 11:30AM",
-      "tour_package_name": "Premium Package"
     },
     {
       "id": 5,
       "name": "Odaiba",
       "url": "https://www.yhunter.ru/wp-content/uploads/2015/06/DSC1876.jpg",
+      "user_itinerary_summary": "Day 1: 9AM - 11:30AM",
+      "tour_package_name": "Delux Package",
       "facts": [
         {
           "title": "Summary",
@@ -84,6 +86,4 @@
       ]
     }
   ],
-  "user_itinerary_summary": "Day 1: 9AM - 11:30AM",
-  "tour_package_name": "Delux Package"
 }
