@@ -13,7 +13,9 @@
           "title": "How to Get There",
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
-      ]
+      ],
+      "user_itinerary_summary": "Day 1: 2PM - 3:30PM",
+      "tour_package_name": "Standard Package"
     },
     {
       "id": 2,
@@ -28,7 +30,9 @@
           "title": "How to Get There",
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
-      ]
+      ],
+      "user_itinerary_summary": "Day 1: 9AM - 1:30PM",
+      "tour_package_name": "Standard Package"
     },
     {
       "id": 3,
@@ -43,7 +47,9 @@
           "title": "How to Get There",
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
-      ]
+      ],
+      "user_itinerary_summary": "Day 1: 4PM - 5:00PM",
+      "tour_package_name": "Standard Package"
     },
     {
       "id": 4,
@@ -58,7 +64,9 @@
           "title": "How to Get There",
           "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
         }
-      ]
+      ],
+      "user_itinerary_summary": "Day 2: 9AM - 11:30AM",
+      "tour_package_name": "Premium Package"
     },
     {
       "id": 5,
@@ -75,5 +83,7 @@
         }
       ]
     }
-  ]
+  ],
+  "user_itinerary_summary": "Day 1: 9AM - 11:30AM",
+  "tour_package_name": "Delux Package"
 }
